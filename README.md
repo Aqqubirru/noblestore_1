@@ -52,20 +52,6 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 ---
 
-## 🧑‍💻 Teknologi yang Digunakan
-
-- ⚛️ **ReactJS**
-- 💅 CSS / SCSS / SASS
-- 📦 (Optional) State Management (jika pakai Context / Redux)
-- 🗂️ Struktur Komponen Modular
-
----
-
-## 📷 Screenshot (Opsional)
-> Tambahkan screenshot UI-nya kalau ada ya!
-
----
-
 ## 🧪 Catatan Pengembangan
 
 > ✅ Project ini digunakan untuk latihan dan eksplorasi React  
@@ -73,12 +59,17 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 ---
 
-## 📫 Kontak
+## 💬 Author
 
-- Nama: **Aqbil Hasya Rasyadi**
-- Email: **aqbilhasyarasyadi21@gmail.com**
-- Instagram: [@jbiel.hr](https://instagram.com/jbiel.hr)
-- TikTok: [@zebiel21](https://tiktok.com/@zebiel21)
+✍️ Aqbil (Aqqubirru)
+
+📧 Email: aqbilhasyarasyadi21@gmail.com
+
+📱 Instagram: <a href="https://instagram.com/jbiel.hr" target="_blank">@jbiel.hr</a>
+
+🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
+
+follow guys :D thanks
 
 ---
 
