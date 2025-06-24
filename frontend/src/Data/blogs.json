@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "Wooden Chair",
+      "subtitle": "Kursi Kayu Terlaris",
+      "date": "12 Agustus 2020",
+      "imageUrl": "https://media.istockphoto.com/id/1266344041/photo/3d-rendering-of-rough-edge-plank-dining-table.webp?a=1&b=1&s=612x612&w=0&k=20&c=Sv_MW0ow8XqyWxLgtJHOkB26770C0qOASnYvM37JVcU="
+    },
+    {
+      "id": 2,
+      "title": "Laptop Razer Blade 16",
+      "subtitle": "The best selling Laptop",
+      "date": "18 Januari 2024",
+      "imageUrl": "https://i.pinimg.com/474x/44/52/a0/4452a0256d1606baf1ad763c698fb077.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Meja Belajar",
+      "subtitle": "Meja Belajar Terlaku Di Noble",
+      "date": "27 Maret 2024",
+      "imageUrl": "https://i.pinimg.com/474x/00/d3/70/00d370bb6c42336bb94d06f6247fb108.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Lemari Kayu Jati",
+      "subtitle": "Lemari Kayu Jati Terlaris",
+      "date": "20 Februari 2023",
+      "imageUrl": "https://i.pinimg.com/474x/a7/40/ef/a740ef2567babc700389ee56b593f39d.jpg"
+    }
+  ]
+  

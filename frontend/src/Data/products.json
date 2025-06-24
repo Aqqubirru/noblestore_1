@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "Kursi kayu hitam",
+      "category": "kursi",
+      "description": "Kursi yang nyaman untuk di duduki.",
+      "price": 70000,
+      "oldPrice": 100000,
+      "image": "https://images.unsplash.com/photo-1489269637500-aa0e75768394?q=80&w=2041&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "color": "black",
+      "rating": 5.0,
+      "author":"admin"
+    },
+    {
+      "id": 2,
+      "name": "Meja Kayu",
+      "category": "meja",
+      "description": "Meja yang bisa digunakan sebagai Meja Makan.",
+      "price": 130000,
+      "oldPrice": 150000,
+      "image": "https://i.pinimg.com/474x/3d/e6/62/3de6629d3894212dff66f2586580df95.jpg",
+      "color": "brown",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Seville 3 Door 2 Drawer Grey Wardrobe",
+      "category": "lemari",
+      "description": "Lemari bagus, cocok untuk menyimpan baju di kamar tidur anda.",
+      "price": 650000,
+      "image": "https://i.pinimg.com/736x/aa/7b/5c/aa7b5c5b3540eda7851d33fb505e202e.jpg",
+      "color": "grey",
+      "rating": 5.0
+    },
+    {
+      "id": 4,
+      "name": "Razer Blade 16",
+      "category": "alat-elektronik",
+      "description": "Laptop gaming dengan chipset yang luar biasa dan layar yang bagus, cocok untuk kebutuhan gaming anda.",
+      "price": 27000000,
+      "oldPrice": 27500000,
+      "image": "https://tecfoco.com.br/wp-content/uploads/2024/01/Notebook-Razer-Blade-16.png",
+      "color": "black",
+      "rating": 5.0
+    },
+    {
+      "id": 5,
+      "name": "Lemari Kayu",
+      "category": "lemari",
+      "description": "Lemari kayu yang sangat bagus untuk anda",
+      "price": 500000,
+      "oldPrice": 4300000,
+      "image": "https://i.pinimg.com/474x/7e/c1/9b/7ec19b412a5a4f57e0330a78ca5e05e7.jpg",
+      "color": "brown",
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Sofa Abu",
+      "category": "kursi",
+      "description": "Sofa yang nyaman untuk diduduki oleh keluarga maupun tamu.",
+      "price": 180000,
+      "oldPrice": 115000,
+      "image": "https://i.pinimg.com/736x/49/e5/90/49e590acd3a09a9711fafbf4d8f44d0e.jpg",
+      "color": "grey",
+      "rating": 5.0
+    },
+    {
+      "id": 7,
+      "name": "Ricardo Rice Cooker",
+      "category": "alat-elektronik",
+      "description": "Rice cooker yang sangat bagus untuk memasak nasi dengan cepat dan praktis.",
+      "price": 250000,
+      "oldPrice": 300000,
+      "image": "https://i.pinimg.com/474x/48/6b/cc/486bcc839d5bdc54493470276749e73d.jpg",
+      "color": "silver",
+      "rating": 5.0
+    },
+    {
+      "id": 8,
+      "name": "Meja Belajar",
+      "category": "meja",
+      "description": "Meja Belajar yang sangat bagus dan nyaman untuk anak-anak dan orang dewasa.",
+      "price": 300000,
+      "image": "https://i.pinimg.com/enabled_lo_mid/474x/ca/36/27/ca3627301b4cd22f615d6484b1742b16.jpg",
+      "color": "light-brown",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "name": "Timbangan dapur digital",
+      "category": "alat-elektronik",
+      "description": "Timbangan dapur yang sangat bagus untuk mengukur berat bahan makanan secara praktis.",
+      "price": 65000,
+      "image": "https://i.pinimg.com/474x/9e/f6/3c/9ef63c1840825f114fae220ef7d7791d.jpg",
+      "color": "white",
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Kursi Kayu",
+      "category": "meja",
+      "description": "Kursi yang nyaman untuk bersantai di halaman rumah.",
+      "price": 70000,
+      "oldPrice": 87000,
+      "image": "https://i.pinimg.com/474x/00/be/af/00beaf7e05d91c6246b8476af489bddb.jpg",
+      "color": "light-brown",
+      "rating": 4.5
+    }
+  ]
