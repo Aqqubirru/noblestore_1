@@ -4,7 +4,6 @@
   <p align="center">
   <img src="https://img.shields.io/badge/Status-Abandoned-red" />
   </p>
----
 
 ## ❗ Status: Abandoned
 > 🚧 Proyek ini adalah latihan e-commerce menggunakan ReactJS.  
