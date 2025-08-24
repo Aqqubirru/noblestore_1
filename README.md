@@ -77,4 +77,4 @@ follow guys :D thanks
 ---
 
 > 🙌 Terima kasih sudah melihat project ini.  
-> Meskipun tidak selesai, semoga bisa jadi referensi atau inspirasi coding lainnya.
+> Meskipun tidak selesai, semoga bisa jadi referensi atau inspirasi teman teman coding lainnya.
