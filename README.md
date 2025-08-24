@@ -47,7 +47,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 ### 🕑 Promo Banner (Countdown Timer)
 - Ada banner promo dengan countdown timer
-- **Timer stuck di 30 hari** (belum jadi fitur dinamis)
+- **Timer stuck di 30 hari** (perlu di setting)
 
 ### 🔥 The Best Selling
 - Tampil di bagian bawah halaman
