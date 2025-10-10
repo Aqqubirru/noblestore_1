@@ -22,7 +22,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 ### Navigasi (Navbar)
 - `Home`, `Shop`, `Pages`, `Contact`, `Search`, `Cart`, `User`  
-  ➤ *Catatan: beberapa halaman belum aktif.*
+  > *Catatan: beberapa halaman belum aktif.*
 
 ### Kategori Produk
 - Terdapat kategori: **Kursi**, **Meja**, **Lemari**, dan **Alat Elektronik**
