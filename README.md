@@ -43,7 +43,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
   - Rp100.000 – Rp200.000
   - Rp200.000 – Rp300.000
   - Rp300.000 - dst
-- 🔁 **Reset filter**
+- **Reset filter**
 
 ### 🕑 Promo Banner (Countdown Timer)
 - Ada banner promo dengan countdown timer
