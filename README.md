@@ -1,4 +1,4 @@
-<h1 align="center">🛒 React E-Commerce (Abandoned Project)</h1>
+<h1 align="center">React E-Commerce (Abandoned Project)</h1>
 <h3 align="center">Eksperimen Proyek Lama Toko Online Menggunakan ReactJS</h3>
 
   <p align="center">
