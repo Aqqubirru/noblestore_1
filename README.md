@@ -45,7 +45,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
   - Rp300.000 - dst
 - **Reset filter**
 
-### 🕑 Promo Banner (Countdown Timer)
+### Promo Banner (Countdown Timer)
 - Ada banner promo dengan countdown timer
 - **Timer stuck di 30 hari** (perlu di setting)
 
