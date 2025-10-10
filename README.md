@@ -6,7 +6,7 @@
   </p>
 
 ## ❗ Status: Abandoned
-> 🚧 Proyek ini adalah latihan e-commerce menggunakan ReactJS.  
+> 🚧 Proyek ini adalah latihan e-commerce menggunakan React.  
 > Tidak selesai karena sudah tidak dilanjutkan, tapi tetap di-publish sebagai portofolio referensi.
 
 ---
