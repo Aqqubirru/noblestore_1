@@ -20,15 +20,15 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 ## 🧩 Fitur yang Sudah Dibuat
 
-### 🔝 Navigasi (Navbar)
+### Navigasi (Navbar)
 - `Home`, `Shop`, `Pages`, `Contact`, `Search`, `Cart`, `User`  
   ➤ *Catatan: beberapa halaman belum aktif.*
 
-### 🛍️ Kategori Produk
+### Kategori Produk
 - Terdapat kategori: **Kursi**, **Meja**, **Lemari**, dan **Alat Elektronik**
 - Saat kategori diklik, produk akan difilter sesuai kategori
 
-### 📈 Produk Trending
+### Produk Trending
 - Menampilkan beberapa produk dengan:
   - Nama produk
   - Harga
