@@ -55,7 +55,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 ---
 
-## 🧪 Catatan Pengembangan
+## Catatan Pengembangan
 
 > Project ini digunakan untuk latihan dan eksplorasi React  
 > Project **tidak dilanjutkan** karena pindah ke project lain
