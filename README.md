@@ -35,7 +35,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
   - Rating bintang
 - Saat produk diklik → akan menampilkan **deskripsi lengkap** (hanya 1 produk aktif untuk sekarang)
 
-### 🔎 Filter
+### Filter
 - **Kategori** (kursi, meja, dll)
 - **Warna** sesuai warna produk
 - **Harga**:
