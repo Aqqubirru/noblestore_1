@@ -1,12 +1,12 @@
 <h1 align="center">🛒 React E-Commerce (Abandoned Project)</h1>
-<h3 align="center">🧪 Eksperimen Proyek Lama Toko Online Menggunakan ReactJS</h3>
+<h3 align="center">Eksperimen Proyek Lama Toko Online Menggunakan ReactJS</h3>
 
   <p align="center">
   <img src="https://img.shields.io/badge/Status-Abandoned-red" />
   </p>
 
-## ❗ Status: Abandoned
-> 🚧 Proyek ini adalah latihan e-commerce menggunakan React.  
+## Status: Abandoned
+> Proyek ini adalah latihan e-commerce menggunakan React.  
 > Tidak selesai karena sudah tidak dilanjutkan, tapi tetap di-publish sebagai portofolio referensi.
 
 ---
