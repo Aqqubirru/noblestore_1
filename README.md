@@ -11,7 +11,7 @@
 
 ---
 
-## 🧾 Deskripsi Singkat
+## Deskripsi Singkat
 
 Proyek ini adalah implementasi awal dari toko online menggunakan **ReactJS**.  
 Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
