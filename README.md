@@ -18,7 +18,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 ---
 
-## 🧩 Fitur yang Sudah Dibuat
+## Fitur yang Sudah Dibuat
 
 ### Navigasi (Navbar)
 - `Home`, `Shop`, `Pages`, `Contact`, `Search`, `Cart`, `User`  
