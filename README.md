@@ -70,7 +70,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 📱 Instagram: <a href="https://instagram.com/jbiel.hr" target="_blank">@jbiel.hr</a>
 
-🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
+🎵 TikTok: <a href="https://www.tiktok.com/@balbelbillll" target="_blank">@jbielze</a>
 
 follow guys :D thanks
 
