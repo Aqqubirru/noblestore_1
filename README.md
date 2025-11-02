@@ -62,7 +62,7 @@ Fokus utama pada layout UI, kategori produk, dan beberapa filter dasar.
 
 ---
 
-## 💬 Author
+## Author
 
 ✍️ Aqbil (Aqqubirru)
 
